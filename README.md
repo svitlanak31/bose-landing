@@ -10,7 +10,7 @@
 
 
 ## Посилання на прев'ю
-- [DEMO LINK](https://<your_account>.github.io/layout_landing-page/)
+- [DEMO LINK](https://svitlanak31.github.io/bose-landing/)
 
 ## Посилання на макет
 - [Nothing](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6802-139&t=L7eKz5YKLN0m5WxR-0)
